@@ -15,7 +15,7 @@ Contents
 Further reading
 -----
  * "Life, Liberty, and 140 Characters: On the Study of Creativity Through Open Networks on Line." [*SSRN eLibrary*][wp1]. Paper presented a workshop on "Hidden sides of creativity" at ESSEC, 2011.
- * "Using Social Media to Sample Ideas: Lessons from a Slate-Twitter Contest." [*SSRN eLibrary*][wp2]
+ * "Using Social Media to Sample Ideas: Lessons from a Slate-Twitter Contest." [*SSRN eLibrary*][wp2]. Paper to be presented at track on Open Innovation at EURAM 2012.
  * An article is forthcoming in the special issue on technology, information systems and collaboration of the *journal of systems and information technology*.
 
 Acknowledgments
